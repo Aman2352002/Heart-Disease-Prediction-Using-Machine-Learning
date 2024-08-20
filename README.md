@@ -1,1 +1,1 @@
-# Heart-Disease-Prediction-Using-Machine-Learning
+This project aims to predict the likelihood of heart disease using various machine learning algorithms. The model is trained on a dataset containing medical attributes such as age, cholesterol levels, and blood pressure to provide insights into heart disease risk.
